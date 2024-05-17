@@ -14,12 +14,11 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
 
-## Connect with Me
 <a href="https://www.linkedin.com/in/nabeelthotti/">
-  <img alt="LinkedIn icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">
+  <img alt="LinkedIn icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" style="background-color: white; border-radius: 5px;">
 </a>
 <a href="https://www.github.com/nabeelthotti/">
-  <img alt="GitHub icon" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30">
+  <img alt="GitHub icon" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30" style="background-color: white; border-radius: 5px;">
 </a>
 
 [1]: https://www.linkedin.com/in/nabeelthotti/
