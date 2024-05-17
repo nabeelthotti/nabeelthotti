@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🌱 I’m currently learning more about advanced Python programming and React.
-- 👯 I’m looking to collaborate on Python and React projects.
+- 🌱 I’m currently learning more about advanced Python programming.
+- 👯 I’m looking to collaborate on fullstack projects.
 - 💬 Ask me about anything related to Python or React.
 - 📫 How to reach me: [nabeelthotti02@gmail.com].
 - 😄 Pronouns: He/Him.
