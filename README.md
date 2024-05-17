@@ -15,12 +15,12 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
 
 ## Connect with Me
-
-[![LinkedIn][1.2]][1]
-[![GitHub][2.2]][2]
-
-[1.2]: https://cdn-icons-png.flaticon.com/512/174/174857.png "LinkedIn icon"
-[2.2]: https://cdn-icons-png.flaticon.com/512/25/25231.png "GitHub icon"
+<a href="https://www.linkedin.com/in/nabeelthotti/">
+  <img alt="LinkedIn icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">
+</a>
+<a href="https://www.github.com/nabeelthotti/">
+  <img alt="GitHub icon" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30">
+</a>
 
 [1]: https://www.linkedin.com/in/nabeelthotti/
 [2]: https://www.github.com/nabeelthotti/
